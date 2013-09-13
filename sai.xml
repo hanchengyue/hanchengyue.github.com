@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pushcontent id="2052" >
+
+    <dxcontents>
+
+        <dxcontent id="198" >
+
+            <attr_id>
+<![CDATA[10012]]></attr_id>
+
+            <summary>
+<![CDATA[牛气冲天]]></summary>
+
+            <total_chap>
+<![CDATA[2]]></total_chap>
+
+            <update_chap>
+<![CDATA[2]]></update_chap>
+
+            <url_subfix>
+<![CDATA[.apk]]></url_subfix>
+
+            <url_prefix>
+<![CDATA[http://211.103.232.186:10001/res/apk/]]></url_prefix>
+
+            <recommended>
+<![CDATA[0]]></recommended>
+
+            <flow>
+<![CDATA[300]]></flow>
+
+            <actor>
+<![CDATA[aaa,bbb,ccc,ddd,eee,fff]]></actor>
+
+            <main_id>
+<![CDATA[10012]]></main_id>
+
+            <url>
+<![CDATA[1:17,2:17,3:17]]></url>
+
+            <pic_url>
+<![CDATA[http://testlink.mobicloud.com.cn:8000/files/images/1376981860740.jpg]]></pic_url>
+
+            <fee>
+<![CDATA[3]]></fee>
+
+            <fee_id>
+<![CDATA[3]]></fee_id>
+
+            <author>
+<![CDATA[快肯定快贷款贷款卡大口大口贷款的宽阔的]]></author>
+
+            <title>
+<![CDATA[牛]]></title>
+
+            <rank>
+<![CDATA[22]]></rank>
+
+            <sw_size>
+<![CDATA[22]]></sw_size>
+
+            <subtype>
+<![CDATA[搞笑片段]]></subtype>
+
+            <type_name>
+<![CDATA[最新应用]]></type_name>
+
+            <hot>
+<![CDATA[11]]></hot>
+
+            <fee_desc>
+<![CDATA[3yuan300M]]></fee_desc>
+
+            <submit_time>
+<![CDATA[2013-08-20]]></submit_time>
+        </dxcontent>
+    </dxcontents>
+
+</pushcontent>
